@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="everton.silvaa@gmail.com" />
+    <option name="HOST" value="https://github.com/EvertonBitencourt/ifhelper" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
